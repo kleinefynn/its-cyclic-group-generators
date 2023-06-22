@@ -1,5 +1,6 @@
 use std::env;
-use anyhow::{bail, Result};use itertools::*;
+use anyhow::{bail, Result};
+use itertools::*;
 use mod_exp::mod_exp;
 use rayon::prelude::*;
 
